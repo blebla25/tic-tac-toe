@@ -1,0 +1,70 @@
+﻿<Window x:Class="Vaja2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vaja2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="600">
+
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+    
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+
+        <ComboBox Name="Način" Grid.Column="0" Grid.Row="0" Margin="5,5,5,5" HorizontalAlignment="Center">
+            <ComboBoxItem Name="item1" IsSelected="True">Prelahko (1)</ComboBoxItem>
+            <ComboBoxItem Name="item2">Lahko (2)</ComboBoxItem>
+            <ComboBoxItem Name="item3">Preprosto (3)</ComboBoxItem>
+            <ComboBoxItem Name="item4">Srednje (4)</ComboBoxItem>
+            <ComboBoxItem Name="item5">Težje (5)</ComboBoxItem>
+            <ComboBoxItem Name="item6">Težko (6)</ComboBoxItem>
+            <ComboBoxItem Name="item7">Zelo težko (7)</ComboBoxItem>
+            <ComboBoxItem Name="item8">Ekstremno (8)</ComboBoxItem>
+            <ComboBoxItem Name="item9">Nemogoče (9)</ComboBoxItem>
+        </ComboBox>
+
+        <Grid Name="Test" Grid.Row="1" Margin="5" Height="350" Width="350">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+
+            </Grid.RowDefinitions>
+            <Button Name="Button_0" Click="ButtonClick" Grid.Column="0" Grid.Row="0"/>
+            <Button Name="Button_1" Click="ButtonClick" Grid.Column="1" Grid.Row="0"/>
+            <Button Name="Button_2" Click="ButtonClick" Grid.Column="2" Grid.Row="0"/>
+            <Button Name="Button_3" Click="ButtonClick" Grid.Column="0" Grid.Row="1"/>
+            <Button Name="Button_4" Click="ButtonClick" Grid.Column="1" Grid.Row="1"/>
+            <Button Name="Button_5" Click="ButtonClick" Grid.Column="2" Grid.Row="1"/>
+            <Button Name="Button_6" Click="ButtonClick" Grid.Column="0" Grid.Row="2"/>
+            <Button Name="Button_7" Click="ButtonClick" Grid.Column="1" Grid.Row="2"/>
+            <Button Name="Button_8" Click="ButtonClick" Grid.Column="2" Grid.Row="2"/>
+        </Grid>
+       
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Delo\2Letnik\AI\Vaja2\Vaja2\bin\Debug\Vaja2.exe.config
+C:\Delo\2Letnik\AI\Vaja2\Vaja2\bin\Debug\Vaja2.exe
+C:\Delo\2Letnik\AI\Vaja2\Vaja2\bin\Debug\Vaja2.pdb
+C:\Delo\2Letnik\AI\Vaja2\Vaja2\obj\Debug\Vaja2.csprojAssemblyReference.cache
+C:\Delo\2Letnik\AI\Vaja2\Vaja2\obj\Debug\MainWindow.g.cs
+C:\Delo\2Letnik\AI\Vaja2\Vaja2\obj\Debug\App.g.cs
+C:\Delo\2Letnik\AI\Vaja2\Vaja2\obj\Debug\Vaja2_MarkupCompile.cache
+C:\Delo\2Letnik\AI\Vaja2\Vaja2\obj\Debug\Vaja2_MarkupCompile.lref
+C:\Delo\2Letnik\AI\Vaja2\Vaja2\obj\Debug\MainWindow.baml
+C:\Delo\2Letnik\AI\Vaja2\Vaja2\obj\Debug\Vaja2.g.resources
+C:\Delo\2Letnik\AI\Vaja2\Vaja2\obj\Debug\Vaja2.Properties.Resources.resources
+C:\Delo\2Letnik\AI\Vaja2\Vaja2\obj\Debug\Vaja2.csproj.GenerateResource.cache
+C:\Delo\2Letnik\AI\Vaja2\Vaja2\obj\Debug\Vaja2.csproj.CoreCompileInputs.cache
+C:\Delo\2Letnik\AI\Vaja2\Vaja2\obj\Debug\Vaja2.exe
+C:\Delo\2Letnik\AI\Vaja2\Vaja2\obj\Debug\Vaja2.pdb

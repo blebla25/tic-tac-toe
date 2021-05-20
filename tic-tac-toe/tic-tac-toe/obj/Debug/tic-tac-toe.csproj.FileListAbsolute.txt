@@ -1,0 +1,15 @@
+C:\Users\mihec\Documents\Github\tic-tac-toe\tic-tac-toe\tic-tac-toe\bin\Debug\Vaja2.exe.config
+C:\Users\mihec\Documents\Github\tic-tac-toe\tic-tac-toe\tic-tac-toe\bin\Debug\Vaja2.exe
+C:\Users\mihec\Documents\Github\tic-tac-toe\tic-tac-toe\tic-tac-toe\bin\Debug\Vaja2.pdb
+C:\Users\mihec\Documents\Github\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.csprojAssemblyReference.cache
+C:\Users\mihec\Documents\Github\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\MainWindow.g.cs
+C:\Users\mihec\Documents\Github\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\App.g.cs
+C:\Users\mihec\Documents\Github\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\Vaja2_MarkupCompile.cache
+C:\Users\mihec\Documents\Github\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\Vaja2_MarkupCompile.lref
+C:\Users\mihec\Documents\Github\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\MainWindow.baml
+C:\Users\mihec\Documents\Github\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\Vaja2.g.resources
+C:\Users\mihec\Documents\Github\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\Vaja2.Properties.Resources.resources
+C:\Users\mihec\Documents\Github\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.csproj.GenerateResource.cache
+C:\Users\mihec\Documents\Github\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.csproj.CoreCompileInputs.cache
+C:\Users\mihec\Documents\Github\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\Vaja2.exe
+C:\Users\mihec\Documents\Github\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\Vaja2.pdb
