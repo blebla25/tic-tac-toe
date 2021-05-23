@@ -30,15 +30,15 @@
         </Grid.RowDefinitions>
 
         <ComboBox Name="Način" Grid.Column="0" Grid.Row="0" Margin="5,5,5,5" HorizontalAlignment="Center">
-            <ComboBoxItem Name="item1" IsSelected="True">Prelahko (1)</ComboBoxItem>
-            <ComboBoxItem Name="item2">Lahko (2)</ComboBoxItem>
-            <ComboBoxItem Name="item3">Preprosto (3)</ComboBoxItem>
-            <ComboBoxItem Name="item4">Srednje (4)</ComboBoxItem>
-            <ComboBoxItem Name="item5">Težje (5)</ComboBoxItem>
-            <ComboBoxItem Name="item6">Težko (6)</ComboBoxItem>
-            <ComboBoxItem Name="item7">Zelo težko (7)</ComboBoxItem>
-            <ComboBoxItem Name="item8">Ekstremno (8)</ComboBoxItem>
-            <ComboBoxItem Name="item9">Nemogoče (9)</ComboBoxItem>
+            <ComboBoxItem Name="item1" IsSelected="True"> (1)</ComboBoxItem>
+            <ComboBoxItem Name="item2">(2)</ComboBoxItem>
+            <ComboBoxItem Name="item3">(3)</ComboBoxItem>
+            <ComboBoxItem Name="item4">(4)</ComboBoxItem>
+            <ComboBoxItem Name="item5">(5)</ComboBoxItem>
+            <ComboBoxItem Name="item6">(6)</ComboBoxItem>
+            <ComboBoxItem Name="item7">(7)</ComboBoxItem>
+            <ComboBoxItem Name="item8">(8)</ComboBoxItem>
+            <ComboBoxItem Name="item9">(9)</ComboBoxItem>
         </ComboBox>
 
         <Grid Name="Test" Grid.Row="1" Margin="5" Height="350" Width="350">
